@@ -1,4 +1,6 @@
-# MMS 190: Chalmers MPMOB maste course: Method for reliability and risk analysis
+# Chalmers MPMOB: MMS 190 
+
+**Chalmers MPMOB maste course: Method for reliability and risk analysis**
 
 ## Eligibility
 General entry requirements for Master's level (second cycle)
