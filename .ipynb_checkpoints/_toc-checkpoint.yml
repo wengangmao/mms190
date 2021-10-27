@@ -1,0 +1,15 @@
+format: jb-book
+root: contents/introduction
+parts:
+- caption: RESEARCH PROJECT
+  chapters:
+  - file: contents/projects/ecosail.md
+    title: Ecosail 2018-2021
+  - file: contents/projects/E-Nav.md
+    title: E-Nav 2019-2022
+  - file: contents/projects/viakaizen.md
+    title: VIA Kaizen 2020-2022
+  - file: contents/projects/autobarge.md
+    title: Autobarge 2022-2025
+  - file: contents/projects/others.md
+    title: Other projects
