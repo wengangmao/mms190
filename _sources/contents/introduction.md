@@ -1,4 +1,4 @@
-# Chalmers MPMOB: MMS 190 
+# MMS 190 -- MPMOB Methods for risk and reliability analysis
 
 +++
 ---
