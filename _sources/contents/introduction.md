@@ -69,3 +69,35 @@ The course focuses on the risk and reliability analysis of the FLS and ULS crite
 * Reliability and risk analysis in limit states design
 
 Three mandatory computer assignments will be carried out where the student will practice gained knowledge during the course on realistic and typical examples for marine structures.
+
+
+
+## ASSIGNMENTS
+The course has three mandatory assignments where the student will practice gained knowledge during the course on realistic and typical examples for marine structures. Students should form groups of 3-4 students to solve each of the assignments. Reports on each of the assignments should be sent in by e-mail to both teachers (see dates below). The report should be written using a report template that can be downloaded from the course’s web page on Ping-Pong. 
+
+* Assignment 1: Fitting distribution and linear regression analysis. 
+    Deadline: 17.00 on the 22nd of April
+* Assignment 2: Monte Carlo methods for reliability analysis.
+    Deadline: 17.00 on the 12th of May
+* Assignment 3: Extreme prediction for limit state design.
+    Deadline: 17.00 on the 26th of May
+
+
+
+## EXAMINATION
+A passed course gives the student 7.5 hp. The examination is performed by a mandatory written exam and through the three project assignments (report and presentation seminar). Note that all the three assignments (report and presentation) must have been approved before the written exam! The grading is performed solely by the written exam (Bonus points from the assignments will be added to the score of the written examination!).
+
+## The written examination takes place June 3, 2021.
+
+* The student is allowed to bring the compendium to the exam. Some minor notes in the compendium are allowed, however, additional papers with notes are NOT allowed.
+* Any electronically calculator is allowed.
+* The written exam consists only the problem-solving part. Hence, the maximum number of points on the exam is 30 points.
+* The different grades given are (sum of points on the exam: grade): 0 – 14: Fail of exam; 15 – 19: 3; 20 – 25: 4; 26 – 30: 5.
+
+
+## COURSE SCHEDULE (Attention!!)
+Due to the current condition of Coronavirus spreading worldwide, we are advised to teach this course through the digital learning tool i.e., Zoom.
+ 
+•	Lecture & Tutorial (Zoom digital classroom): presentation of theory with reference to chapters in the compendium, and examples suitable for hand calculations.
+•	Computer exercises (Zoom digital classroom): computer exercises. These occasions are “warm-ups” for the Assignments. Active participation and preparations in advance are strongly recommended!
+•	Assignments (Zoom digital classroom): practical engineering projects.
