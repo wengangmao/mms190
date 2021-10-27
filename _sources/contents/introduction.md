@@ -1,8 +1,10 @@
 # Chalmers MPMOB: MMS 190 
 
++++
+---
+
 **Chalmers MPMOB maste course: Method for reliability and risk analysis**
 
-+++
 ---
 
 ORGANISATION OF THE COURSE: EXAMINER AND TEACHERS
